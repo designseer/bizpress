@@ -3367,7 +3367,7 @@ ul.sub-language {
 }
 .news-item img {
 	width: 100%;
-	max-width: fit-content;
+	padding: 20px 0;
 }
 .news-area .sidebar-widget:last-child{
 	border: none;
